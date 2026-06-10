@@ -5,7 +5,7 @@
 
 ---
  🚀 Live Demo & Deployment
-* *Live Web App*:  https://github.com/bdhivyasudha17-tech/CodeAlpha_SQL-Injection-Shield-.git
+* *Live Web App*:   https://bdhivyasudha17-tech.github.io/CodeAlpha_SQL-Injection-Shield-/
 ## 📖 Overview
 
 ApexBank Cyber Shield is a cloud-based banking security solution developed as part of the **CodeAlpha Cloud Computing Internship**. The project is designed to protect sensitive banking information from SQL Injection attacks while ensuring data confidentiality through **AES-256 encryption** and multi-layer security mechanisms.
